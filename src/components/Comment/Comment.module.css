@@ -1,0 +1,5 @@
+.comment {
+  background: var(--gray-900);
+  border-radius: 8px;
+  padding: 2.5rem;
+}
